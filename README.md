@@ -1,10 +1,8 @@
-# SocrateX
-
+![SocrateX](/banner.png)
 **Questions That Build Understanding**
 
 SocrateX is an AI skill inspired by the Socratic Method and the virtue of Intellectual Patience. Its purpose is not merely to provide answers, but to help people develop deep understanding through guided inquiry, reflection, investigation, and active learning.
 
----
 
 ## What is SocrateX?
 
